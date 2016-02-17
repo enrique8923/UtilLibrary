@@ -1,0 +1,7 @@
+C:\Users\Enrique\documents\visual studio 2015\Projects\UtilLibrary\UtilLibrary\bin\Debug\UtilLibrary.dll.config
+C:\Users\Enrique\documents\visual studio 2015\Projects\UtilLibrary\UtilLibrary\bin\Debug\UtilLibrary.dll
+C:\Users\Enrique\documents\visual studio 2015\Projects\UtilLibrary\UtilLibrary\bin\Debug\UtilLibrary.pdb
+C:\Users\Enrique\documents\visual studio 2015\Projects\UtilLibrary\UtilLibrary\bin\Debug\System.Net.Http.dll
+C:\Users\Enrique\documents\visual studio 2015\Projects\UtilLibrary\UtilLibrary\bin\Debug\System.Net.Http.xml
+C:\Users\Enrique\documents\visual studio 2015\Projects\UtilLibrary\UtilLibrary\obj\Debug\UtilLibrary.dll
+C:\Users\Enrique\documents\visual studio 2015\Projects\UtilLibrary\UtilLibrary\obj\Debug\UtilLibrary.pdb
